@@ -6,7 +6,7 @@
 [![Lines of code](https://img.shields.io/tokei/lines/github/Limboid/the-limboid-ecosystem)](https://github.com/Limboid/the-limboid-ecosystem)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Limboid/the-limboid-ecosystem?style=social)](https://github.com/Limboid/the-limboid-ecosystem)
 
-[](httsp://github.com/Limboid/modalities/assets/blender/logo.png)
+[](httsp://github.com/Limboid/modalities/assets/img/logo.png)
 
 *:construction: **This repository is under construction.** :construction: Expect a public release coming this Summer 2022.*
 
